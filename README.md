@@ -16,6 +16,7 @@ Then, try using kernel methods. Specifically, implement from scratch (again, wit
 - The kernelized Pegasos with the Gaussian and the polynomial kernels for SVM (refer to the kernelized Pegasos paper with its pseudo-code here in Figure 3. Note that there is a typo in the pseudo-code. Identify and correct it.)
 
 Evaluate the performance of these models as well.
+
 Remember that relevant hyperparameter tuning is a crucial part of the project and must be performed using a sound procedure.
 
 Ensure that the code you provide is polished, working, and, importantly, well-documented. Write a report discussing your findings, with particular attention to the adopted methodology, and provide a thorough discussion of the models’ performance and their theoretical interpretation. Include comments on the presence of overfitting or underfitting and discuss the computational costs.
